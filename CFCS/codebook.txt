@@ -1,0 +1,24 @@
+The following items were rated on a likert scale where 1=extremely uncharacteristic, 2=somewhat uncharacteristic, 3=uncertain, 4=somewhat characteristic, 5=extremely characteristic (0=no answer chosen).
+
+Q1. I consider how things might be in the future, and try to influence those things with my day to day behavior.  
+Q2. Often I engage in a particular behavior in order to achieve outcomes that may not result for many years.  
+Q3. I only act to satisfy immediate concerns, figuring the future will take care of itself.  
+Q4. My behavior is only influenced by the immediate (i.e., a matter of days or weeks) outcomes of my actions.  
+Q5. My convenience is a big factor in the decisions I make or the actions I take.  
+Q6. I am willing to sacrifice my immediate happiness or well-being in order to achieve future outcomes.  
+Q7. I think it is important to take warnings about negative outcomes seriously even if the negative outcome will not occur for many years.  
+Q8. I think it is more important to perform a behavior with important distant consequences than a behavior with less-important immediate consequences.  
+Q9. I generally ignore warnings about possible future problems because I think the problems will be resolved before they reach crisis level.  
+Q10. I think that sacrificing now is usually unnecessary since future outcomes can be dealt with at a later time.
+Q11. I only act to satisfy immediate concerns, figuring that I will take care of future problems that may occur at a later date.  
+Q12. Since my day to day work has specific outcomes, it is more important to me than behavior that has distant outcomes.
+
+On the next page the following three variables were entered:
+
+age. entered as text (ages < 13 removed)
+gender. chosen from drop down list (1=male, 2=female, 3=other).
+accuracy. Entered as text, prompt: "Please estimate how accurate your answers were about yourself on a scale of 0-100, where 100 means completely accurate (you had no doubts about any of your answers) and 0 means you answered the items randomly. If you do not want your answers used for research, enter 0." <= 0 removed.
+
+The following value was calculated from technical information
+
+country	ISO country code, calculated with MaxMind GeoIPLite

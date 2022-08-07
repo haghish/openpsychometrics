@@ -1,0 +1,97 @@
+This data comes from an online version of the Kentucky Inventory of Mindfulness Skills, see:
+Baer, R. A., Smith G. T., Allen, K. B. (2004). Assessment of mindfulness by self-report: The Kentucky Inventory of Mindfulness Skills. Assessment, 11, 191-206.
+
+The items Q1-Q39 were presented on a single page and were rated on a 5 point scale where 1=Never or very rarely true, 2=Rarely true, 3=Sometimes true, 4=Often true, 5=Very often or always true (0=none selected).
+
+Q1. I notice changes in my body, such as whether my breathing slows down or speeds up. 
+Q2. I’m good at finding the words to describe my feelings. 
+Q3. When I do things, my mind wanders off and I’m easily distracted. 
+Q4. I criticize myself for having irrational or inappropriate emotions. 
+Q5. I pay attention to whether my muscles are tense or relaxed. 
+Q6. I can easily put my beliefs, opinions, and expectations into words. 
+Q7. When I’m doing something, I’m only focused on what I’m doing, nothing else. 
+Q8. I tend to evaluate whether my perceptions are right or wrong. 
+Q9. When I’m walking, I deliberately notice the sensations of my body moving. 
+Q10. I’m good at thinking of words to express my perceptions, such as how things taste, smell, or sound. 
+Q11. I drive on “automatic pilot” without paying attention to what I’m doing. 
+Q12. I tell myself that I shouldn’t be feeling the way I’m feeling. 
+Q13. When I take a shower or bath, I stay alert to the sensations of water on my body. 
+Q14. It’s hard for me to find the words to describe what I’m thinking. 
+Q15. When I’m reading, I focus all my attention on what I’m reading. 
+Q16. I believe some of my thoughts are abnormal or bad and I shouldn’t think that way.  
+Q17. I notice how foods and drinks affect my thoughts, bodily sensations, and emotions. 
+Q18. I have trouble thinking of the right words to express how I feel about things. 
+Q19. When I do things, I get totally wrapped up in them and don’t think about  anything else. 
+Q20. I make judgments about whether my thoughts are good or bad. 
+Q21. I pay attention to sensations, such as the wind in my hair or sun on my face
+Q22. When I have a sensation in my body, it’s difficult for me to describe it because I can’t find the right words. 
+Q23. I don’t pay attention to what I’m doing because I’m daydreaming, worrying, or otherwise distracted. 
+Q24. I tend to make judgments about how worthwhile or worthless my experiences are. 
+Q25. I pay attention to sounds, such as clocks ticking, birds chirping, or cars passing. 
+Q26. Even when I’m feeling terribly upset, I can find a way to put it into words. 
+Q27. When I’m doing chores, such as cleaning or laundry, I tend to daydream or think of other things. 
+Q28. I tell myself that I shouldn’t be thinking the way I’m thinking. 
+Q29. I notice the smells and aromas of things. 
+Q30. I intentionally stay aware of my feelings. 
+Q31. I tend to do several things at once rather than focusing on one thing at a time. 
+Q32. I think some of my emotions are bad or inappropriate and I shouldn’t feel them. 
+Q33. I notice visual elements in art or nature, such as colors, shapes, textures, or patterns of light and shadow. 
+Q34. My natural tendency is to put my experiences into words. 
+Q35. When I’m working on something, part of my mind is occupied with other topics, such as what I’ll be doing later, or things I’d rather be doing. 
+Q36. I disapprove of myself when I have irrational ideas. 
+Q37. I pay attention to how my emotions affect my thoughts and behavior. 
+Q38. I get completely absorbed in what I’m doing, so that all my attention is focused  on it. 
+Q39. I notice when my moods begin to change.
+
+On the next page the takers entered the following information:
+
+age. entered as as text then parsed to an interger (ages<14 removed).
+gender. chosen from drop down list (1=male, 2=female, 3=other)
+
+On this page they were also asked to affirm that their responses were accurate and suitable for research, those that did not have been removed.
+
+-- CALUCATED VALUES --
+
+in php:
+
+	$observing = round(($_POST['Q1']
+			   + $_POST['Q5']
+			   + $_POST['Q9']
+			   + $_POST['Q13']
+			   + $_POST['Q17']
+			   + $_POST['Q25']
+			   + $_POST['Q29']
+			   + $_POST['Q30']
+			   + $_POST['Q33']
+			   + $_POST['Q37']
+			   + $_POST['Q39'])/11, 1);
+
+	$describing = round(($_POST['Q2']
+			   + $_POST['Q6']
+			   + $_POST['Q10']
+			   + $_POST['Q14']
+			   + $_POST['Q18']
+			   + $_POST['Q22']
+			   + $_POST['Q26']
+			   + $_POST['Q34'])/8,1);
+			   
+	$acting = round(($_POST['Q3']
+			   + $_POST['Q7']
+			   + $_POST['Q11']
+			   + $_POST['Q15']
+			   + $_POST['Q19']
+			   + $_POST['Q23']
+			   + $_POST['Q27']
+			   + $_POST['Q31']
+			   + $_POST['Q35']
+			   + $_POST['Q38'])/10,1);
+			   
+	$accepting = round(($_POST['Q4']
+			   + $_POST['Q8']
+			   + $_POST['Q12']
+			   + $_POST['Q16']
+			   + $_POST['Q20']
+			   + $_POST['Q24']
+			   + $_POST['Q28']
+			   + $_POST['Q32']
+			   + $_POST['Q36'])/9,1);

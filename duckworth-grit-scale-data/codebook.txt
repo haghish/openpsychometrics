@@ -1,0 +1,130 @@
+This data was collected through an on-line personality test.
+
+At the end of the personality test, users were asked if their answers were accurate and would be willing to complete an additional survey. At the end of the additional survey users were asked if their answers were accurate and their data could be used for research. This dataset consists of exclusively participants who consented yes at both parts.
+
+This data was collected over several pages, the time on each page was recorded:
+introelapse		the time spent on the introduction page to the big five personality test, had an introduction to the big five and a policies statement.
+testelapse		the time spend on the body of the big five personality test
+surveyelapse	the time in seconds spent on the supplemental survey
+
+Some other values were calculated from technical information:
+country	ISO country code
+operatingsystem	The operating system of the users computer, determined from HTTP user agent
+browser	The browser the user is using, determined from HTTP user agent
+screenw	The width of the users screen in pixels, from javascript
+screenh	The height of the users screen in pixels, from javascript
+
+
+The personality test was big five scales from the international personality item pool. 
+
+The following items were rated on a five point scale where 1=Disagree, 3=Neutral, 5=Agree (0=missed). All were presented on one page in the order E1, N2, A1, C1, O1, E2...... 
+
+E1	I am the life of the party.
+E2	I don't talk a lot.
+E3	I feel comfortable around people.
+E4	I keep in the background.
+E5	I start conversations.
+E6	I have little to say.
+E7	I talk to a lot of different people at parties.
+E8	I don't like to draw attention to myself.
+E9	I don't mind being the center of attention.
+E10	I am quiet around strangers.
+N1	I get stressed out easily.
+N2	I am relaxed most of the time.
+N3	I worry about things.
+N4	I seldom feel blue.
+N5	I am easily disturbed.
+N6	I get upset easily.
+N7	I change my mood a lot.
+N8	I have frequent mood swings.
+N9	I get irritated easily.
+N10	I often feel blue.
+A1	I feel little concern for others.
+A2	I am interested in people.
+A3	I insult people.
+A4	I sympathize with others' feelings.
+A5	I am not interested in other people's problems.
+A6	I have a soft heart.
+A7	I am not really interested in others.
+A8	I take time out for others.
+A9	I feel others' emotions.
+A10	I make people feel at ease.
+C1	I am always prepared.
+C2	I leave my belongings around.
+C3	I pay attention to details.
+C4	I make a mess of things.
+C5	I get chores done right away.
+C6	I often forget to put things back in their proper place.
+C7	I like order.
+C8	I shirk my duties.
+C9	I follow a schedule.
+C10	I am exacting in my work.
+O1	I have a rich vocabulary.
+O2	I have difficulty understanding abstract ideas.
+O3	I have a vivid imagination.
+O4	I am not interested in abstract ideas.
+O5	I have excellent ideas.
+O6	I do not have a good imagination.
+O7	I am quick to understand things.
+O8	I use difficult words.
+O9	I spend time reflecting on things.
+O10	I am full of ideas.
+
+
+Then came the supplemental survey, if they agreed to it (only individuals who opted into the supplemental survey are included in this dataset).
+
+The following items were rated on a five point scale where 1=Very much like me, 2=Mostly like me, 3=Somewhat like me, 4=Not much like me, 5=Not like me at all:
+
+The item text is abbreviated here, see https://sites.sas.upenn.edu/duckworth/pages/research for the full items
+
+GS1	I have...
+GS2	New ideas...
+GS3	My interests...
+GS4	Setbacks don't...
+GS5	I have been...
+GS6	I am...
+GS7	I often...
+GS8	I have...
+GS9	I finish...
+GS10	I have...
+GS11	I become...
+GS12	I am...
+
+The following items were presented as a check-list and subjects were instructed "In the grid below, check all the words whose definitions you are sure you know":
+
+VCL1	boat
+VCL2	incoherent
+VCL3	pallid
+VCL4	robot
+VCL5	audible
+VCL6	cuivocal
+VCL7	paucity
+VCL8	epistemology
+VCL9	florted
+VCL10	decide
+VCL11	pastiche
+VCL12	verdid
+VCL13	abysmal
+VCL14	lucid
+VCL15	betray
+VCL16	funny
+
+A value of 1 is checked, 0 means unchecked. The words at VCL6, VCL9, and VCL12 are not real words and can be used as a validity check.
+
+A bunch more questions were then asked:
+
+education	"How much education have you completed?" 1=Less than high school, 2=High school, 3=University degree, 4=Graduate degree
+urban	"What type of area did you live when you were a child?" 1=Rural (country side), 2=Suburban, 3=Urban (town, city)
+gender	"What is your gender?" 1=Male, 2=Female, 3=Other
+engnat	"Is English your native language?" 1=Yes, 2=No
+age	"How many years old are you?"
+hand	"What hand do you use to write with?" 1=Right, 2=Left, 3=Both
+religion	"What is your religion?" 1=Agnostic, 2=Atheist, 3=Buddhist, 4=Christian (Catholic), 5=Christian (Mormon), 6=Christian (Protestant), 7=Christian (Other), 8=Hindu, 9=Jewish, 10=Muslim, 11=Sikh, 12=Other
+orientation	"What is your sexual orientation?" 1=Heterosexual, 2=Bisexual, 3=Homosexual, 4=Asexual, 5=Other
+race	"What is your race?"	1=Asian, 2=Arab, 3=Black, 4=Indigenous Australian, Native American or White, 5=Other
+voted	"Have you voted in a national election in the past year?" 1=Yes, 2=No
+married	"What is your marital status?" 1=Never married, 2=Currently married, 3=Previously married
+familysize	"Including you, how many children did your mother have?"
+
+NOTE: for the variable race, an error in the programming of the survey left Indigenous Australian, Native American and White responses all registering as the same value.
+

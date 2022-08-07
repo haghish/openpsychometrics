@@ -1,0 +1,38 @@
+This dataset was collected on-line with an interactive version of the Open Hemispheric Brain Dominance Scale between April 2015 and January 2016.
+
+At the end of the test users were asked if the answers they had given were accurate and if their data could be stored and used for research. Only participants who answered yes to this questions are in this dataset.
+
+The OHBDS was developed by criterion keying items against four other scale purported to measure measure the left-brain/right-brain distinction, see http://personality-testing.info/tests/OHBDS/
+
+The following items were rated on five point scale where 1=Disagree, 3=Neutral and 5=Agree
+
+Q1	I do not need others praise.
+Q2	I would prefer a class in mathematics to a class in pottery.
+Q3	I never show up late.
+Q4	I don't bother to the read instructions before I start putting something together.
+Q5	I could not live in a mess.
+Q6	I am totally random.
+Q7	I like working with words.
+Q8	I behave in a businesslike manner.
+Q9	I come up with something new.
+Q10	I am not easily disturbed by events.
+Q11	I rarely cry during sad movies.
+Q12	I plan my life logically.
+Q13	I need a creative outlet.
+Q14	I make decisions based on facts, not feelings.
+Q15	I make a mess of things.
+Q16	I get stressed out easily.
+Q17	I am romantic.
+Q18	I prize logic above all else.
+Q19	I often forget to put things back in their proper place.
+Q20	I am calm even in tense situations.
+
+The time in milliseconds it took to answer each question was also recoded in the variable E1...E20
+
+The users country was inferred based on technical information and is stored in the varaible "country". ISO country codes.
+
+The time in seconds users spent on the various pages of the test was recoded:
+
+introelapse	the landing page
+testelapse	the actual test page
+wrapupelapse	the ending page before results, where supplemental questions were asked

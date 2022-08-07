@@ -1,0 +1,27 @@
+This data comes from a beta version of the Artistic Preferences Scale. This dataset is a bit complicated to analyze and understand, the dataset from the final version is recommended for most uses. 
+
+The test was offered on-line, and people took it with the motivation of receiving personalized results.
+
+The test always consisted of 75 items, Q1-Q75.
+
+For each item, two values were recorded. e.g. Q1A, Q1E
+
+A - The response on a 5 point scale to the item. A 1 = strong preference for option A, and 5 = strong preference for option B 
+E - the time elapsed on that item in milliseconds
+
+This test came in multiple different versions, and they are all combined here. THEY MUST BE SEPARATED FOR ANALYSIS TO MAKE SENSE. Q1 of form-1 is not the same thing as Q1 of form-200.
+
+The id of the form is stored in the value "formid". To get the items used in each form, consult forms.txt.
+
+These values were also collected:
+
+dateload	
+introelapse	time in seconds spent on the landing page	
+testelapse	time in seconds spent on the questions
+surveyelapse	time in seconds spent on the short demographic survey at the end
+country		user network location
+engnat		1=Native English speaker, 2=Not
+age		in years
+gender		1=male,2=female,3=other
+fastclicks	number or questions answered "too fast" -> recommended to filter for 0
+

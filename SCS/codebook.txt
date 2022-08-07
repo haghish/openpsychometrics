@@ -1,0 +1,21 @@
+This data is from an online version of the Sexual Compulsivity Scale. It only indicates individuals who indicated that their results were accurate and suitable for research (79% of takers).
+
+The questions were rated on a likert scale (1=Not at all like me, 2=Slightly like me, 3=Mainly like me, 4=Very much like me):
+
+Q1. My sexual appetite has gotten in the way of my relationships.				
+Q2. My sexual thoughts and behaviors are causing problems in my life.				
+Q3. My desires to have sex have disrupted my daily life.				
+Q4. I sometimes fail to meet my commitments and responsibilities because of my sexual behaviors.				
+Q5. I sometimes get so horny I could lose control.				
+Q6. I find myself thinking about sex while at work.				
+Q7. I feel that sexual thoughts and feelings are stronger than I am.				
+Q8. I have to struggle to control my sexual thoughts and behavior.				
+Q9. I think about sex more than I would like to.				
+Q10. It has been difficult for me to find sex partners who desire having sex as much as I want to.
+
+gender. chosen from drop down list (1=male, 2=female, 3=other; 0=not answered)
+age. entered as text (ages < 14 removed)
+
+-- COMPUTED VALUES --
+
+score. = SUM(Q1....Q10)

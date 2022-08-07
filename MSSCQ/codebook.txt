@@ -1,0 +1,110 @@
+The items Q1 through Q100 were rated on a scale where 1=Not at all characteristic of me, 2=Slightly characteristic of me, 3=Somewhat characteristic of me, 4=Moderately characteristic of me, 5=Very characteristic of me:
+
+[Q]
+1. I feel anxious when I think about the sexual aspects of my life.
+2. I have the ability to take care of any sexual needs and desires that I may have.
+3. I am very aware of my sexual feelings and needs.
+4. I am motivated to avoid engaging in "risky" (i.e., unprotected) sexual behavior.
+5. The sexual aspects of my life are determined mostly by chance happenings.
+6. I think about sex "all the time."
+7. I’m very assertive about the sexual aspects of my life.
+8. I expect that the sexual aspects of my life will be positive and rewarding in the future.
+9. I would be to blame, if the sexual aspects of my life were not going very well.
+10. I notice how others perceive and react to the sexual aspects of my life.
+11. I’m motivated to be sexually active.
+12. If I were to experience a sexual problem, I myself would in control of whether this improved.
+13. I derive a sense of self-pride from the way I handle my own sexual needs and desires.
+14. I am satisfied with the way my sexual needs are currently being met.
+15. My sexual behaviors are determined largely by other more powerful and influential people.
+16. Not only would I be a good sexual partner, but it’s quite important to me that I be a good sexual partner.
+17. I am afraid of becoming sexual involved with another person.
+18. If I am careful, then I will be able to prevent myself from having any sexual problems.
+19. I am depressed about the sexual aspects of my life.
+20. My sexuality is something that I am largely responsible for.
+21. I worry about the sexual aspects of my life.
+22. I am competent enough to make sure that my sexual needs are fulfilled.
+23. I am very aware of my sexual motivations and desires.
+24. I am motivated to keep myself from having any "risky" sexual behavior (e.g., exposure to sexual diseases).
+25. Most things that affect the sexual aspects of my life happen to me by accident.
+26. I think about sex more than anything else.
+27. I’m not very direct about voicing my sexual needs and preferences. (R)
+28. I believe that in the future the sexual aspects of my life will be healthy and positive.
+29. If the sexual aspects of my life were to go wrong, I would be the person to blame.
+30. I’m concerned with how others evaluate my own sexual beliefs and behaviors.
+31. I’m motivated to devote time and effort to sex.
+32. If I were to experiences a sexual problem, my own behavior would determine whether I improved.
+33. I am proud of the way I deal with and handle my own sexual desires and needs.
+34. I am satisfied with the status of my own sexual fulfillment.
+35. My sexual behaviors are largely controlled by people other than myself (e.g., my partner, friends, family).
+36. Not only would I be a skilled sexual partner, but it’s very important to me that I be a skilled sexual partner.
+37. I have a fear of sexual relationships.
+38. I can pretty much prevent myself from developing sexual problems by taking good care of myself.
+39. I am disappointed about the quality of my sex life.
+40. The sexual aspects of my life are determined in large part by my own behavior.
+41. Thinking about the sexual aspects of my life often leaves me with an uneasy feeling.
+42. I have the skills and ability to ensure rewarding sexual behaviors for myself.
+43. I tend to think about my own sexual beliefs and attitudes.
+44. I want to avoid engaging in sex where I might be exposed to sexual diseases.
+45. Luck plays a big part in influencing the sexual aspects of my life.
+46. I tend to be preoccupied with sex.
+47. I am somewhat passive about expressing my own sexual desires. (R)
+48. I do not expect to suffer any sexual problems or frustrations in the future.
+49. If I were to develop a sexual disorder, then I would be to blame for not taking good care of myself.
+50. I am quick to notice other people’s reactions to the sexual aspects of my own life.
+51. I have a desire to be sexually active.
+52. If I were to become sexually maladjusted, I myself would be responsible for making myself better.
+53. I am pleased with how I handle my own sexual tendencies and behaviors.
+54. The sexual aspects of my life are personally gratifying to me.
+55. My sexual behavior is determined by the actions of powerful others (e.g., my partner, friends, family).
+56. Not only could I relate well to a sexual partner, but it’s important to me that I be able to do so.
+57. I am fearful of engaging sexual activity.
+58. If just I look out for myself, then I will be able to avoid any sexual problems in the future.
+59. I feel discouraged about my sex life.
+60. I am in control of and am responsible for the sexual aspects of my life.
+61. I worry about the sexual aspects of my life.
+62. I am able to cope with and to handle my own sexual needs and wants.
+63. I’m very alert to changes in my sexual thoughts, feelings, and desires.
+64. I really want to prevent myself from being exposed to sexual diseases.
+65. The sexual aspects of my life are largely a matter of (good or bad) fortune.
+66. I’m constantly thinking about having sex.
+67. I do not hesitate to ask for what I want in a sexual relationship.
+68. I will probably experience some sexual problems in the future. (R)
+69. If I were to develop a sexual problem, then it would be my own fault for letting it happen.
+70. I’m concerned about how the sexual aspects of my life appear to others.
+71. It’s important to me that I involve myself in sexual activity.
+72. If I developed any sexual problems, my recovery would depend in large part on what I myself would do.
+73. I have positive feelings about the way I approach my own sexual needs and desires.
+74. The sexual aspects of my life are satisfactory, compared to most people’s.
+75. In order to be sexually active, I have to conform to other more powerful individuals.
+76. I am able to "connect" well with a sexual partner, and it’s important to me that I am able to do so.
+77. I don’t have much fear about engaging in sex. (R)
+78. I will be able to avoid any sexual problems, if I just take good care of myself.
+79. I feel unhappy about my sexual experiences.
+80. The main thing which affects the sexual aspects of my life is what I myself do.
+81. I feel nervous when I think abut the sexual aspects of my life.
+82. I have the capability to take care of my own sexual needs and desires.
+83. I am very aware of the sexual aspects of myself (e.g. habits, thoughts, beliefs).
+84. I am really motivated to avoid any sexual activity that might expose me to sexual diseases.
+85. The sexual aspects of my life are a matter of fate (destiny).
+86. I think about sex the majority of the time.
+87. When it comes to sex, I usually ask for what I want.
+88. I anticipate that in the future the sexual aspects of my life will be frustrating. (R)
+89. If something went wrong with my own sexuality, then it would be my own fault.
+90. I’m aware of the public impression created by my own sexual behaviors and attitudes.
+91. I strive to keep myself sexually active.
+92. If I developed a sexual disorder, my recovery would depend on how I myself dealt with the problem.
+93. I feel good about the way I express my own sexual needs and desires.
+94. I am satisfied with the sexual aspects of my life.
+95. My sexual behavior is mostly determined by people who have influence and control over me.
+96. Not only am I be capable of relating to a sexual partner, but it’s important to me that I relate very well.
+97. I’m not afraid of becoming sexually active. (R)
+98. If I just pay careful attention, I’ll be able to prevent myself from having any sexual problems.
+99. I feel sad when I think about my sexual experiences.
+100. My sexuality is something that I myself am in charge of.
+
+The following question was asked ("I responded to the above items based on:")
+base. 1=A current sexual relationship. 2=A past sexual relationship. 3=An imagined sexual relationship.
+
+
+gender. Chosen from a drop down (1=male, 2=female, 3=other, 0=failed to choose)
+age. entered into a text field (ages < 13 removed)

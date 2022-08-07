@@ -1,0 +1,17 @@
+Data was collected using the Feminist Perspectives Scale from Henley, N.; Meng, K.; O'Brien, D.; McCarthy, W.; Sockloskie, R. (1998). "Developing a Scale to Measure the Diversity of Feminist Attitudes". Psychology of Women Quarterly, 22(2), 317-348.
+
+The test had 60 items rated on a five point scale (with 1 labelled as "Disagree", 3 as "Neutral" and 5 as "Agree"; 0 means question was missed).
+
+The item text can be found in Henley et. al. (1998), question numbers correspond exactly.
+
+On the next page, age and gender were collected.
+
+Gender was chosen from dropdown (1=Male, 2=Female, 3=Other).
+
+Age was entered as text and convert to integer. Ages <= 13 excluded.
+
+Then the participant was asked to confirm that they had provided accurate answers and that they consented to have their answers stored and used for research, so participants who answered no are not included in this dataset.
+
+Using technical information, country was determined (ISO country code).
+
+Also using technical information, how the participant came to the test was recorded (1=from front page of website that hosted the survey, 2=from google, 3=other source).

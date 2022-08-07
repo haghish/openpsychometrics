@@ -1,0 +1,111 @@
+This data came from an online version of the Nonverbal Immediacy Scale. 
+
+See: Richmond, V. P., McCroskey, J. C., & Johnson, A. D. (2003). Development of the Nonverbal Immediacy Scale (NIS): Measures of self- and other-perceived nonverbal immediacy. Communication Quarterly, 51, 502-515. 
+
+Data collection took place 2016-2019.
+
+The following items were rated of 5 point scale (1=Never, 2=Rarely, 3=Occasionaly, 4=Often, 5=Very often):
+
+Q1	I use my hands and arms to gesture while talking to people. 
+Q2	I touch others on the shoulder or arm while talking to them. 
+Q3	I use a monotone or dull voice while talking to people. 
+Q4	I look over or away from others while talking to them. 
+Q5	I move away from others when they touch me while we are talking. 
+Q6	I have a relaxed body position when I talk to people. 
+Q7	I frown while talking to people. 
+Q8	I avoid eye contact while talking to people. 
+Q9	I have a tense body position while talking to people. 
+Q10	I sit close or stand close to people while talking with them. 
+Q11	My voice is monotonous or dull when I talk to people. 
+Q12	I use a variety of vocal expressions when I talk to people. 
+Q13	I gesture when I talk to people. 
+Q14	I am animated when I talk to people. 
+Q15	I have a bland facial expression when I talk to people. 
+Q16	I move closer to people when I talk to them. 
+Q17	I look directly at people while talking to them. 
+Q18	I am stiff when I talk to people. 
+Q19	I have a lot of vocal variety when I talk to people. 
+Q20	I avoid gesturing while I am talking to people. 
+Q21	I lean toward people when I talk to them. 
+Q22	I maintain eye contact with people when I talk to them. 
+Q23	I try not to sit or stand close to people when I talk with them. 
+Q24	I lean away from people when I talk to them. 
+Q25	I smile when I talk to people. 
+Q26	I avoid touching people when I talk to them.
+
+The time elapsed on each question in milliseconds was also recorded.
+
+These other durations were also recorded (measured on the server side):
+
+introelapse		The time spent on the introduction/landing page (in seconds)
+testelapse		The time spent on all the DASS questions (should be equivalent to the time elapsed on all the indiviudal questions combined)
+surveyelapse	The time spent answering the rest of the demographic and survey questions
+
+On the next page was a generic demographics survey with many different questions.
+
+The Ten Item Personality Inventory was administered (see Gosling, S. D., Rentfrow, P. J., & Swann, W. B., Jr. (2003). A Very Brief Measure of the Big Five Personality Domains. Journal of Research in Personality, 37, 504-528.):
+
+TIPI1       Extraverted, enthusiastic.
+TIPI2	      Critical, quarrelsome.
+TIPI3   	Dependable, self-disciplined.
+TIPI4	      Anxious, easily upset.
+TIPI5	      Open to new experiences, complex.
+TIPI6	      Reserved, quiet.
+TIPI7	      Sympathetic, warm.
+TIPI8	      Disorganized, careless.
+TIPI9	      Calm, emotionally stable.
+TIPI10	Conventional, uncreative.
+
+The TIPI items were rated "I see myself as: _____" such that
+
+1 = Disagree strongly
+2 = Disagree moderately
+3 = Disagree a little
+4 = Neither agree nor disagree
+5 = Agree a little
+6 = Agree moderately
+7 = Agree strongly
+
+
+
+The following items were presented as a check-list and subjects were instructed "In the grid below, check all the words whose definitions you are sure you know":
+
+VCL1	boat
+VCL2	incoherent
+VCL3	pallid
+VCL4	robot
+VCL5	audible
+VCL6	cuivocal
+VCL7	paucity
+VCL8	epistemology
+VCL9	florted
+VCL10	decide
+VCL11	pastiche
+VCL12	verdid
+VCL13	abysmal
+VCL14	lucid
+VCL15	betray
+VCL16	funny
+
+A value of 1 is checked, 0 means unchecked. The words at VCL6, VCL9, and VCL12 are not real words and can be used as a validity check.
+
+A bunch more questions were then asked:
+
+
+education			"How much education have you completed?", 1=Less than high school, 2=High school, 3=University degree, 4=Graduate degree
+urban				"What type of area did you live when you were a child?", 1=Rural (country side), 2=Suburban, 3=Urban (town, city)
+gender				"What is your gender?", 1=Male, 2=Female, 3=Other
+engnat				"Is English your native language?", 1=Yes, 2=No
+age					"How many years old are you?"
+hand				"What hand do you use to write with?", 1=Right, 2=Left, 3=Both
+religion			"What is your religion?", 1=Agnostic, 2=Atheist, 3=Buddhist, 4=Christian (Catholic), 5=Christian (Mormon), 6=Christian (Protestant), 7=Christian (Other), 8=Hindu, 9=Jewish, 10=Muslim, 11=Sikh, 12=Other
+orientation			"What is your sexual orientation?", 1=Heterosexual, 2=Bisexual, 3=Homosexual, 4=Asexual, 5=Other
+race				"What is your race?", 10=Asian, 20=Arab, 30=Black, 40=Indigenous Australian, 50=Native American, 60=White, 70=Other (other values come from a miscoding of the survey)
+voted				"Have you voted in a national election in the past year?", 1=Yes, 2=No
+married				"What is your marital status?", 1=Never married, 2=Currently married, 3=Previously married
+familysize			"Including you, how many children did your mother have?"		
+major				"If you attended a university, what was your major (e.g. "psychology", "English", "civil engineering")?"
+
+
+This value was determined with technical information:
+country     the country the respondent connected to the survey from

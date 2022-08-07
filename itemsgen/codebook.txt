@@ -1,0 +1,25 @@
+This data comes from a survey that was appended to multiple on line personality tests.
+
+After a test participants were asked if they would be willing to take a 2-4 minute survey before they viewed their results (approximately 50% said yes).
+
+Participants who took this survey were asked to generate three personality test items that showcased what was unique about their personality.
+
+These responses are in
+
+item1
+item2
+item2
+
+Then users were asked a few more questions
+
+age	entered as text (ages < 13 not recorded)
+gender	chosen from drop down (1=male, 2=female, 3=other)
+engnat	"Is English your native language?" (1=yes, 2=no)
+
+One value was infered from technical information
+
+country	ISO country code
+
+At the end users were asked if their answers were accurate and asked to confirm their consent for their data to be used. Users who said no were not recorded.
+
+For this dataset, records where the items were not completed are not included.

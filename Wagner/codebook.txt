@@ -1,0 +1,24 @@
+This data was collected online and used the Wagner Preference Inventory. Wagner, Rudolph F., and Kelly A. Wells. "A refined neurobehavioral inventory of hemispheric preference." Journal of clinical psychology 41.5 (1985): 671-676.
+
+The WPI was appended as an optional survey on the end of several on line personality tests. At the end of each test the user would be asked if they would be willing to complete a short optional research survey. About half said yes and they were administered the WPI before they viewed their personality test results.
+
+The WPI has 12 questions. In each question the subject chooses from a group of four activities which they would like to do the most.
+
+Q1	1=Major in Logic, 2=Write a letter, 3=Fix things at home, 4=Major in art
+Q2	1=Be a movie critic, 2=Learn new words, 3=Improve your skills in a game, 4=Create a new toy
+Q3	1=Improve your strategy in a game, 2=Remember people's names, 3=Engage in sports, 4=Play an instrument by ear
+Q4	1=Review a book, 2=Write for a magazine, 3=Build new shelves at home, 4=Draw a landscape or seascape
+Q5	1=Analyze market trends, 2=Write a movie script, 3=Do carpentry work, 4=Imagine a new play
+Q6	1=Analyze management practices, 2=Locate words in a dictionary, 3=Put jigsaw puzzles together, 4=Paint in oil
+Q7	1=Be in charge of computer programming, 2=Study word origins and meaning, 3=Putter in the yard, 4=Invent a new gadget
+Q8	1=Analyze production costs, 2=Describe a new product in words, 3=Sell a new product on the market, 4=Draw a picture of a new product
+Q9	1=Explain the logic of a theory, 2=Be a copy writer for ads, 3=Work with wood and clay, 4=Invent a story
+Q10	1=Be a comparison shopper, 2=Read about famous men and women, 3=Run a traffic control tower, 4=Mold with clay and putty
+Q11	1=Analyze your budget, 2=Study literature, 3=Visualize and re-arrange furniture, 4=Be an artist
+Q11	1=Plan a trip and make a budget, 2=Write a novel, 3=Build a house or shack, 4=Make crafts your hobby
+
+After these questions the participant was asked if they has answered these questions accurately and to confirm their consent. Participants who answered "no" were not recorded.
+
+The following value was calculated from technical infromation:
+
+country	Where the user connected to from. ISO country code.

@@ -1,0 +1,34 @@
+The form this data is for comes from two locations. It was attached to the ends of both a free Holland Code test and a free big five personality test where participants were solicited. About half of the people who took the free tests completed this attached survey.
+
+gender. chosen from a drop down list where 1=male, 2=female, 3=other (0=none chosen)
+age. entered as free response (ages less that 18 have been removed)
+
+The following six sentances stems were entered as free response. 
+
+S1. "One should never trust... "
+S2. "The good life..."
+S3. "Brothers..."
+S4. "Sisters..."
+S5. "The beauty of..."
+S6. "Lacking everything but..."
+
+The data from the survey appended to the big five personality test is in data file 1. The following big five personality traits were calculated from the fifity item form from the IPIP. http://ipip.ori.org/New_IPIP-50-item-scale.htm
+Scores are on the range (1,5).
+
+EX. Extraversion
+NR. Neuroticism
+OP. Openness to experience
+AG. Agreeableness
+CN. Conscientiousness
+
+The data from the survey appended to RIASEC personality test is in data file 2.  The following RIASEC markers were calcuated with form A from https://netfiles.uiuc.edu/jrounds/IIP/RIASEC/scale-item.htm
+
+Scores are on the range (8, 48).
+
+RE. Realistic
+AR. Artistic
+SO. Social
+EN. Enterprising
+CV. Conventional
+IV. Investigative
+

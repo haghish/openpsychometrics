@@ -1,0 +1,20 @@
+This experimental IQ test had 25 items, each an matrix with one tile missing and eight possibilities for that tile.
+
+The items are /questions/ folder, in subfolders 1...25 which correspond to Q1....Q25 in the data file. In the folder for each question you will find the files:
+
+q.png - the incomplete matrix.
+1.png.....7.png - wrong answers
+a.png - the right answer.
+
+In the data file, if Q1 is 4, that means they chose 4.png as their answer. If it is 10, that means they chose a.png as their answer.
+
+At the end they were also directed to indicate:
+
+gender - chosen from a drop down list where 1=male, 2=female, 3=other.
+age - entered as free response (ages < 18 removed)
+
+NOTES:
+
+1. The possible answers were presented in two rows of four with a random order for each participant.
+
+2. The collection of this data was of mediocre quality.

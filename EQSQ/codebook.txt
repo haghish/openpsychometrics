@@ -1,0 +1,133 @@
+This data was collection with an interactive online version of a combined set of Simon Baron-Cohen's Empathizing and Systemizing Quotients.
+
+The variables E1 through E60 and S1 through S60 were statements rated on a four point scale where 1=Strongly disagree, 2=Disagree	Agree, 3=Strongly agree (0=did not select an answer). The exact statements were:
+
+
+E1. I can easily tell if someone else wants to enter a conversation.				
+E2. I prefer animals to humans.				
+E3. I try to keep up with the current trends and fashions.				
+E4. I find it difficult to explain to others things that I understand easily, when they don't understand it first time.				
+E5. I dream most nights.				
+E6. I really enjoy caring for other people.				
+E7. I try to solve my own problems rather than discussing them with others.				
+E8. I find it hard to know what to do in a social situation.				
+E9. I am at my best first thing in the morning.				
+E10. People often tell me that I went too far in driving my point home in a discussion.				
+E11. It doesn't bother me too much if I am late meeting a friend.				
+E12. Friendships and relationships are just too difficult, so I tend not to bother with them.				
+E13. I would never break a law, no matter how minor.				
+E14. I often find it difficult to judge if something is rude or polite.				
+E15. In a conversation, I tend to focus on my own thoughts rather than on what my listener might be thinking.				
+E16. I prefer practical jokes to verbal humour.				
+E17. I live life for today rather than the future.				
+E18. When I was a child, I enjoyed cutting up worms to see what would happen.				
+E19. I can pick up quickly if someone says one thing but means another.				
+E20. I tend to have very strong opinions about morality.				
+E21. It is hard for me to see why some things upset people so much.				
+E22. I find it easy to put myself in somebody else's shoes.				
+E23. I think that good manners are the most important thing a parent can teach their child.				
+E24. I like to do things on the spur of the moment.				
+E25. I am good at predicting how someone will feel.				
+E26. I am quick to spot when someone in a group is feeling awkward or uncomfortable.				
+E27. If I say something that someone else is offended by, I think that that's their problem, not mine.				
+E28. If anyone asked me if I liked their haircut, I would reply truthfully, even if I didn't like it.				
+E29. I can't always see why someone should have felt offended by a remark.				
+E30. People often tell me that I am very unpredictable.				
+E31. I enjoy being the centre of attention at any social gathering.				
+E32. Seeing people cry doesn't really upset me.				
+E33. I enjoy having discussions about politics.				
+E34. I am very blunt, which some people take to be rudeness, even though this is unintentional.				
+E35. I don?tend to find social situations confusing.				
+E36. Other people tell me I am good at understanding how they are feeling and what they are thinking.				
+E37. When I talk to people, I tend to talk about their experiences rather than my own.				
+E38. It upsets me to see an animal in pain.				
+E39. I am able to make decisions without being influenced by people's feelings.				
+E40. I can't relax until I have done everything I had planned to do that day.				
+E41. I can easily tell if someone else is interested or bored with what I am saying.				
+E42. I get upset if I see people suffering on news programmes.				
+E43. Friends usually talk to me about their problems as they say that I am very understanding.				
+E44. I can sense if I am intruding, even if the other person doesn't tell me.				
+E45. I often start new hobbies but quickly become bored with them and move on to something else.				
+E46. People sometimes tell me that I have gone too far with teasing.				
+E47. I would be too nervous to go on a big rollercoaster.				
+E48. Other people often say that I am insensitive, though I don?always see why.				
+E49. If I see a stranger in a group, I think that it is up to them to make an effort to join in.				
+E50. I usually stay emotionally detached when watching a film.				
+E51. I like to be very organised in day to day life and often make lists of the chores I have to do.				
+E52. I can tune into how someone else feels rapidly and intuitively.				
+E53. I don't like to take risks.				
+E54. I can easily work out what another person might want to talk about.				
+E55. I can tell if someone is masking their true emotion.				
+E56. Before making a decision I always weigh up the pros and cons.				
+E57. I don't consciously work out the rules of social situations.				
+E58. I am good at predicting what someone will do.				
+E59. I tend to get emotionally involved with a friend's problems.				
+E60. I can usually appreciate the other person's viewpoint, even if I don't agree with it.
+S1. When I listen to a piece of music, I always notice the way it's structured.
+S2. I adhere to common superstitions.
+S3. I often make resolutions, but find it hard to stick to them.
+S4. I prefer to read non-fiction than fiction.
+S5. If I were buying a car, I would want to obtain specific information about its engine capacity.
+S6. When I look at a painting, I do not usually think about the technique involved in making it.
+S7. If there was a problem with the electrical wiring in my home, I'd be able to fix it myself.
+S8. When I have a dream, I find it difficult to remember precise details about the dream the next day.
+S9. When I watch a film, I prefer to be with a group of friends, rather than alone.
+S10. I am interested in learning about different religions.
+S11. I rarely read articles or webpages about new technology.
+S12. I do not enjoy games that involve a high degree of strategy.
+S13. I am fascinated by how machines work.
+S14. I make it a point of listening to the news each morning.
+S15. In maths, I am intrigued by the rules and patterns governing numbers.
+S16. I am bad about keeping in touch with old friends.
+S17. When I am relating a story, I often leave out details and just give the gist of what happened.
+S18. I find it difficult to understand instruction manuals for putting appliances together.
+S19. When I look at an animal, I like to know the precise species it belongs to.
+S20. If I were buying a computer, I would want to know exact details about its hard drive capacity and processor speed.
+S21. I enjoy participating in sport.
+S22. I try to avoid doing household chores if I can.
+S23. When I cook, I do not think about exactly how different methods and ingredients contribute to the final product.
+S24. I find it difficult to read and understand maps.
+S25. If I had a collection (e.g. CDs, coins, stamps), it would be highly organised.
+S26. When I look at a piece of furniture, I do not notice the details of how it was constructed.
+S27. The idea of engaging in "risk-taking" activities appeals to me.
+S28. When I learn about historical events, I do not focus on exact dates.
+S29. When I read the newspaper, I am drawn to tables of information, such as football league scores or stock market indices.
+S30. When I learn a language, I become intrigued by its grammatical rules.
+S31. I find it difficult to learn my way around a new city.
+S32. I do not tend to watch science documentaries on television or read articles about science and nature.
+S33. If I were buying a stereo, I would want to know about its precise technical features.
+S34. I find it easy to grasp exactly how odds work in betting.
+S35. I am not very meticulous when I carry out D.I.Y.
+S36. I find it easy to carry on a conversation with someone I've just met.
+S37. When I look at a building, I am curious about the precise way it was constructed.
+S38. When an election is being held, I am not interested in the results for each constituency.
+S39. When I lend someone money, I expect them to pay me back exactly what they owe me.
+S40. I find it difficult to understand information the bank sends me on different investment and saving systems.
+S41. When travelling by train, I often wonder exactly how the rail networks are coordinated.
+S42. When I buy a new appliance, I do not read the instruction manual very thoroughly.
+S43. If I were buying a camera, I would not look carefully into the quality of the lens.
+S44. When I read something, I always notice whether it is grammatically correct.
+S45. When I hear the weather forecast, I am not very interested in the meteorological patterns.
+S46. I often wonder what it would be like to be someone else.
+S47. I find it difficult to do two things at once.
+S48. When I look at a mountain, I think about how precisely it was formed.
+S49. I can easily visualise how the motorways in my region link up.
+S50. When I'm in a restaurant, I often have a hard time deciding what to order.
+S51. When I'm in a plane, I do not think about the aerodynamics.
+S52. I often forget the precise details of conversations I've had.
+S53. When I am walking in the country, I am curious about how the various kinds of trees differ.
+S54. After meeting someone just once or twice, I find it difficult to remember precisely what they look like.
+S55. I am interested in knowing the path a river takes from its source to the sea.
+S56. I do not read legal documents very carefully.
+S57. I am not interested in understanding how wireless communication works.
+S58. I am curious about life on other planets.
+S59. When I travel, I like to learn specific details about the culture of the place I am visiting.
+S60. I do not care to know the names of the plants I see.
+
+The items were not presented in the above order.
+
+On the next page test takers were prompted for three more variables:
+
+age. entered as as text then parsed to an interger
+gender. chosen from drop down list (1=male, 2=female, 3=other)
+accuracy. How accurate they thought their answers were on a scale from 0 to 100, answers were entered as text and parsed to an integer. They were instructed to enter a 0 if they did not want to be included in research.	

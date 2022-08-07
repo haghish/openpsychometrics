@@ -1,0 +1,41 @@
+<html>
+<head>
+<script src="subtest-V.js"></script> 
+<script src="subtest-ISM.js"></script> 
+<script src="subtest-MRT.js"></script> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="text/javascript">
+
+window.onload = function()
+{
+	subtest_V.setTargetContainer("bd");
+	subtest_V.setHandoff(subtest_MRT.run)
+
+	subtest_MRT.setTargetContainer("bd");
+	subtest_MRT.preload();
+	subtest_MRT.setHandoff(subtest_ISM.run);
+
+	subtest_ISM.setTargetContainer("bd");
+	subtest_ISM.preload();
+	subtest_ISM.setHandoff(submittest);
+
+	subtest_V.run();
+}
+
+function submittest()
+{
+	document.getElementById("bd").innerHTML = '<input type="hidden" name="V_data" value="'+btoa(subtest_V.getData())+'" />';
+	document.getElementById("bd").innerHTML += '<input type="hidden" name="MRT_data" value="'+btoa(subtest_MRT.getData())+'" />';
+	document.getElementById("bd").innerHTML += '<input type="hidden" name="ISM_data" value="'+btoa(subtest_ISM.getData())+'" />';
+	document.getElementById("dataform").submit();
+}
+</script>
+</head>
+<body>
+
+<div id="bd">
+
+</div>
+
+</body>
+</html>

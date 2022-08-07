@@ -1,0 +1,41 @@
+This data was collected through an online personality test billed as "Dark Triad Personality Test".
+
+It was constructed with several scales, this data covers two of them:
+
+1. The Hyper Sensitive Narcissism Scale. Hendin, H.; & Cheek, J. (1997). "Assessing Hypersensitive Narcissism: A Re-examination of Murray\'s Narcissism Scale". Journal of Research in Personality, 31, 588-599.
+2. The Dirty Dozen. Jonason, P.; Webster, G. (2010). "The Dirty Dozen: A Concise Measure of the Dark Triad". Psychological Assessment, 22(2), 420–432.
+
+These two yielded the following items that were rated on a five point scale (1 labelled as "Disagree", 3 labelled as "Neutral", 5 labelled as "Agree"; 0 = missed)
+
+HSNS1	I can become entirely absorbed in thinking about my personal affairs, my health, my cares or my relations to others.
+HSNS2	My feelings are easily hurt by ridicule or the slighting remarks of others.
+HSNS3	When I enter a room I often become self conscious and feel that the eyes of others are upon me.
+HSNS4	I dislike sharing the credit of an achievement with others.
+HSNS5	I feel that I have enough on my hands without worrying about other people's troubles.
+HSNS6	I feel that I am temperamentally different from most people.
+HSNS7	I often interpret the remarks of others in a personal way.
+HSNS8	I easily become wrapped up in my own interests and forget the existence of others.
+HSNS9	I dislike being with a group unless I know that I am appreciated by at least one of those present.
+HSNS10	I am secretly "put out" or annoyed when other people come to me with their troubles, asking me for my time and sympathy.
+DDM1	I tend to manipulate others to get my way.
+DDM2	I have used deceit or lied to get my way.
+DDM3	I have used flattery to get my way.
+DDM4	I tend to exploit others towards my own end.
+DDP1	I tend to lack remorse.
+DDP2	I tend to not be too concerned with morality or the morality of my actions.
+DDP3	I tend to be callous or insensitive.
+DDP4	I tend to be cynical.
+DDN1	I tend to want others to admire me.
+DDN2	I tend to want others to pay attention to me.
+DDN3	I tend to seek prestige or status.
+DDN4	I tend to expect special favors from others.
+
+On the next page the following information was requested:
+
+age	entered as text
+gender	chosen from list where 1=Male, 2=Female, 3=Other (0=missed)
+accuracy	participants were instructed to rate how accurate their answers were about themselves on a scale from 0 (random) to 100 (tried their best), participants were instructed to answer 0 if they did not want their data used. Only participants who gave a positive non zero answer were retained.
+
+
+And then:
+country	The location of the participant. Determined with technical information. ISO country code.

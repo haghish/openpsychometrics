@@ -1,0 +1,58 @@
+These scales were used as part of an experiment DISC personality test. The scales are from the International Personality Item Pool.
+
+The scales used are:
+
+Assertiveness: http://ipip.ori.org/newCPIKey.htm#Assertiveness
+Social confidence: http://ipip.ori.org/newJPI-RKey.htm#Social-Confidence
+Adventurousness: http://ipip.ori.org/newNEOKey.htm#Adventurousness
+Dominance: http://ipip.ori.org/newCPIKey.htm#Dominance
+
+The following items were rated on a 5 point scale where 1=Strongly disagree, 2=Disagree, 3=Neither agree not disagree, 4=Agree, 5=Strongly agree.
+
+All were prefixed with "I ".
+
+AS1 Express myself easily.
+AS2 Try to lead others.
+AS3 Automatically take charge.
+AS4 Know how to convince others.
+AS5 Am the first to act.
+AS6 Take control of things.
+AS7 Wait for others to lead the way.
+AS8 Let others make the decisions.
+AS9 Am not highly motivated to succeed.
+AS10 Can't come up with new ideas.
+SC1 Feel comfortable around people.
+SC2 Don't mind being the center of attention.
+SC3 Am good at making impromptu speeches.
+SC4 Express myself easily.
+SC5 Have a natural talent for influencing people.
+SC6 Hate being the center of attention.
+SC7 Lack the talent for influencing people.
+SC8 Often feel uncomfortable around others.
+SC9 Don't like to draw attention to myself.
+SC10 Have little to say.
+AD1 Prefer variety to routine.
+AD2 Like to visit new places.
+AD3 Interested in many things.
+AD4 Like to begin new things.
+AD5 Prefer to stick with things that I know.
+AD6 Dislike changes.
+AD7 Don't like the idea of change.
+AD8 Am a creature of habit.
+AD9 Dislike new foods.
+AD10 Am attached to conventional ways.
+DO1 Try to surpass others' accomplishments.
+DO2 Try to outdo others.
+DO3 Am quick to correct others.
+DO4 Impose my will on others.
+DO5 Demand explanations from others.
+DO6 Want to control the conversation.
+DO7 Am not afraid of providing criticism.
+DO8 Challenge others' points of view.
+DO9 Lay down the law to others.
+DO10 Put people under pressure.
+
+The last page of the test had users affirm that their answers were accurate and suitable for research (those that did not have been removed) and enter the following info:
+
+gender. Chosen from a dropdown (1=male, 2=female, 3=other; 0=they did not choose)
+age. entered into a free response box (ages less than 14 removed; n= apprx. 20).

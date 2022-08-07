@@ -1,0 +1,190 @@
+This dataset was collected with an interactive version of the Fisher Temperament Inventory as published in <<< Brown, Lucy L., Bianca Acevedo, and Helen E. Fisher. "Neural correlates of four broad temperament dimensions: testing predictions for a novel construct of personality." PloS one 8.11 (2013): e78734. >>>
+
+Users took the test with the motivation of getting personalized results, data collection took place in 2019
+
+------------------------------------
+----------- PART 1 -----------------
+------------------------------------
+
+
+The FTI consists of 56 items that are rated on a four point likert-scale. They were presented one at a time in a random order for each participant.
+
+Three values are recorded for each item:
+
+Q1A	the response selcted to the question. 1=Strongly Disagree 2=Disagree 3=Agree 4=Strongly Agree
+Q1I	the point in the survey where that question was shown. 1=1st, 2=2nd, etc.
+Q1E	the time in miliseconds it took for a user to select an answer
+
+The 56 items are below:
+
+{
+'Q1' : 'I find unpredictable situations exhilarating.',
+'Q2' : 'I do things on the spur of the moment.',
+'Q3' : 'I get bored when I have to do the same familiar things.',
+'Q4' : 'I have a very wide range of interests.',
+'Q5' : 'I am more optimistic than most people.',
+'Q6' : 'I am more creative than most people.',
+'Q7' : 'I am always looking for new experiences.',
+'Q8' : 'I am always doing new things.',
+'Q9' : 'I am more enthusiastic than most people.',
+'Q10' : 'I am willing to take risks to do what I want to do.',
+'Q11' : 'I get restless if I have to stay home for any length of time.',
+'Q12' : 'My friends would say I am very curious.',
+'Q13' : 'I have more energy than most people.',
+'Q14' : 'On my time off, I like to be free to do whatever looks fun.',
+'Q15' : 'I think consistent routines keep life orderly and relaxing.',
+'Q16' : 'I consider (and reconsider) every option thoroughly before making a plan.',
+'Q17' : 'People should behave according to established standards of proper conduct.',
+'Q18' : 'I enjoy planning way ahead.',
+'Q19' : 'In general, I think it is important to follow rules.',
+'Q20' : 'Taking care of my possessions is a high priority for me.',
+'Q21' : 'My friends and family would say I have traditional values.',
+'Q22' : 'I tend to be meticulous in my duties.',
+'Q23' : 'I tend to be cautious, but not fearful.',
+'Q24' : 'People should behave in ways that are morally correct.',
+'Q25' : 'It is important to respect authority.',
+'Q26' : 'I would rather have loyal friends than interesting friends',
+'Q27' : 'Long established customs need to be respected and preserved.',
+'Q28' : 'I like to work in a straightforward path toward completing the task.',
+'Q29' : 'I understand complex machines easily.',
+'Q30' : 'I enjoy competitive conversations.',
+'Q31' : 'I am intrigued by rules and patterns that govern systems.',
+'Q32' : 'I am more analytical and logical than most people.',
+'Q33' : 'I pursue intellectual topics thoroughly and regularly.',
+'Q34' : 'I am able to solve problems without letting emotion get in the way',
+'Q35' : 'I like to figure out how things work.',
+'Q36' : 'I am tough-minded.',
+'Q37' : 'Debating is a good way to match my wits with others.',
+'Q38' : 'I have no trouble making a choice, even when several alternatives seem equally good at first.',
+'Q39' : 'When I buy a new machine (e.g., camera, computer or car), I want to know all of its technical features.',
+'Q40' : 'I like to avoid the nuances and say exactly what I mean.',
+'Q41' : 'I think it is important to be direct.',
+'Q42' : 'When making a decision, I like to stick to the facts rather than be swayed by people&#39;s feelings.',
+'Q43' : 'I like to get to know my friends&#39; deepest needs and feelings.',
+'Q44' : 'I highly value deep emotional intimacy in my relationships.',
+'Q45' : 'Regardless of what is logical, I generally listen to my heart when making important decisions.',
+'Q46' : 'I frequently catch myself daydreaming.',
+'Q47' : 'I can change my mind easily.',
+'Q48' : 'After watching an emotional film I often still feel moved by it several hours later.',
+'Q49' : 'I vividly imagine both wonderful and horrible things happening to me.',
+'Q50' : 'I am very sensitive to people&#39;s feelings and needs.',
+'Q51' : 'I often find myself getting lost in my thoughts during the day.',
+'Q52' : 'I feel emotions more deeply than most people.',
+'Q53' : 'I have a vivid imagination.',
+'Q54' : 'When I wake up from a vivid dream, it takes me a few seconds to return to reality.',
+'Q55' : 'When reading, I enjoy when the writer takes a sidetrack to say something beautiful or meaningful.',
+'Q56' : 'I am very empathetic.'
+}
+
+The FTI also includes 6 forced choice items. They were presenteed much like the other items. And the same three values were recorded for each. The two choices for each item were:
+
+T1A	1=I constantly seek new adventures. 2=I generally prefer to do familiar things.
+T2A	1=I&#39;m interested in all kinds of different people. 2=I am interested in people who share my deepest interests.
+T3A	1=I&#39;m not very introspective; I like to look out not in. 2=I&#39;m very introspective; I&#39;m interested in deeply understanding others.
+T4A	1=I tend to be cautious in my work and thinking. 2=I tend to be daring in my work and thinking.
+T5A	1=I tend to think concretely; I only trust the facts. 2=I tend to be imaginative and listen to my intuition.
+T6A	1=I tend to be tough minded. 2=I tend to be tender hearted.
+
+
+
+---------------------------------------------------------------------------
+------------------------   PART 2   ---------------------------------------
+---------------------------------------------------------------------------
+
+After a user had completed the FTI, they were asked if they would be willing to answer a short research survey before they viewed their results.
+
+This dataset only contains those people who took the optional survey.
+
+The Ten Item Personality Inventory was administered (see Gosling, S. D., Rentfrow, P. J., & Swann, W. B., Jr. (2003). A Very Brief Measure of the Big Five Personality Domains. Journal of Research in Personality, 37, 504-528.):
+
+TIPI1	Extraverted, enthusiastic.
+TIPI2	Critical, quarrelsome.
+TIPI3	Dependable, self-disciplined.
+TIPI4	Anxious, easily upset.
+TIPI5	Open to new experiences, complex.
+TIPI6	Reserved, quiet.
+TIPI7	Sympathetic, warm.
+TIPI8	Disorganized, careless.
+TIPI9	Calm, emotionally stable.
+TIPI10	Conventional, uncreative.
+
+The TIPI items were rated "I see myself as:" _____ such that
+
+1 = Disagree strongly
+2 = Disagree moderately
+3 = Disagree a little
+4 = Neither agree nor disagree
+5 = Agree a little
+6 = Agree moderately
+7 = Agree strongly
+
+
+
+The following items were presented as a check-list and subjects were instructed "In the grid below, check all the words whose definitions you are sure you know":
+
+VCL1	boat
+VCL2	incoherent
+VCL3	pallid
+VCL4	robot
+VCL5	audible
+VCL6	cuivocal
+VCL7	paucity
+VCL8	epistemology
+VCL9	florted
+VCL10	decide
+VCL11	pastiche
+VCL12	verdid
+VCL13	abysmal
+VCL14	lucid
+VCL15	betray
+VCL16	funny
+
+A value of 1 is checked, 0 means unchecked. The words at VCL6, VCL9, and VCL12 are not real words and can be used as a validity check.
+
+A bunch more questions were then asked:
+
+
+education			"How much education have you completed?", 1=Less than high school, 2=High school, 3=University degree, 4=Graduate degree
+urban				"What type of area did you live when you were a child?", 1=Rural (country side), 2=Suburban, 3=Urban (town, city)
+gender				"What is your gender?", 1=Male, 2=Female, 3=Other
+engnat				"Is English your native language?", 1=Yes, 2=No
+age					"How many years old are you?"
+hand				"What hand do you use to write with?", 1=Right, 2=Left, 3=Both
+religion			"What is your religion?", 1=Agnostic, 2=Atheist, 3=Buddhist, 4=Christian (Catholic), 5=Christian (Mormon), 6=Christian (Protestant), 7=Christian (Other), 8=Hindu, 9=Jewish, 10=Muslim, 11=Sikh, 12=Other
+orientation			"What is your sexual orientation?", 1=Heterosexual, 2=Bisexual, 3=Homosexual, 4=Asexual, 5=Other
+race				"What is your race?", 1=Asian, 2=Arab, 3=Black, 4=Indigenous Australian, 5=Native American, 6=White, 7=Other
+voted				"Have you voted in a national election in the past year?", 1=Yes, 2=No
+married				"What is your marital status?", 1=Never married, 2=Currently married, 3=Previously married
+familysize			"Including you, how many children did your mother have?"		
+major				"If you attended a university, what was your major (e.g. "psychology", "English", "civil engineering")?"
+
+
+Experinces with 9 drugs were also asked about. "If you have experimented/used with any of the drugs/medications in the table below, please indicate how strongly your behavior/personality was changed while under the influence (i.e. does it uncover a side of you that was previously not expressed?)." and the responses were taken on a 4 point scale: 1=No change in personality with use, 2=Small change in personality with use, 3=Big change in personality with use, 4=Extreme change in personality with use (0=N/A) 
+
+drug1	Marijuana
+drug2	Cocaine
+drug3	Opioids (heroin, morphine, etc)
+drug4	Amphetamines (or Adderall, etc)
+drug5	LSD
+drug6	Psilocybin
+drug7	Alcohol
+drug8	Hormonal birth control
+drug9	Anabolic steroids / TRT
+
+
+
+
+--------------------------------------
+--------- TECHNICAL ------------------
+--------------------------------------
+
+The following values were computed by the server
+
+country			where the user's network was located
+introelapse		time spent on the landing page in seconds
+testelapse		time spent on the main body of the test in seconds
+surveyelapse		time spent on the optional survey in seconds
+uniquenetworklocation	1=this response came from a network location that is unique in the dataset, 2=not unqiue, could be a shared network like a university or a duplicate submission
+screensize	1=screen smaller than 600x600 px, 2=screen bigger
+
+

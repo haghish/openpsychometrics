@@ -1,0 +1,83 @@
+This data was collected through an interactive on-line version of the Generic Conspiracist Beliefs Scale in 2016.
+See Brotherton, Robert, Christopher C. French, and Alan D. Pickering. "Measuring belief in conspiracy theories: the generic conspiracist beliefs scale." Frontiers in psychology 4 (2013). 
+Visitors completed the test primarily for personal amusement.
+At the end of the test but before the results were displayed, users were asked if they would be willing to complete an additional survey and allow their responses to be saved for research. Only users who agreed yes are in this dataset. Individuals with age < 13 were not recorded.
+
+The responses to the GCBS are in (question numbers match to items in TABLE A1 of Brotherton, et. al. 2013.):
+
+Q1 - Q15
+
+The time spent answering each question was also recorded, and are stored in variables
+
+E1 - E15
+
+The other following time elapses were also recorded:
+
+introelapse		The time spent on the introduction/landing page (in seconds)
+testelapse		The time spent on the GCBS questions
+surveyelapse	The time spent answering the rest of the demographic and survey questions
+
+The Ten Item Personality Inventory was administered (see Gosling, S. D., Rentfrow, P. J., & Swann, W. B., Jr. (2003). A Very Brief Measure of the Big Five Personality Domains. Journal of Research in Personality, 37, 504-528.):
+
+TIPI1	Extraverted, enthusiastic.
+TIPI2	Critical, quarrelsome.
+TIPI3	Dependable, self-disciplined.
+TIPI4	Anxious, easily upset.
+TIPI5	Open to new experiences, complex.
+TIPI6	Reserved, quiet.
+TIPI7	Sympathetic, warm.
+TIPI8	Disorganized, careless.
+TIPI9	Calm, emotionally stable.
+TIPI10	Conventional, uncreative.
+
+The TIPI items were rated "I see myself as:" _____ such that
+
+1 = Disagree strongly
+2 = Disagree moderately
+3 = Disagree a little
+4 = Neither agree nor disagree
+5 = Agree a little
+6 = Agree moderately
+7 = Agree strongly
+
+
+
+The following items were presented as a check-list and subjects were instructed "In the grid below, check all the words whose definitions you are sure you know":
+
+VCL1	boat
+VCL2	incoherent
+VCL3	pallid
+VCL4	robot
+VCL5	audible
+VCL6	cuivocal
+VCL7	paucity
+VCL8	epistemology
+VCL9	florted
+VCL10	decide
+VCL11	pastiche
+VCL12	verdid
+VCL13	abysmal
+VCL14	lucid
+VCL15	betray
+VCL16	funny
+
+A value of 1 is checked, 0 means unchecked. The words at VCL6, VCL9, and VCL12 are not real words and can be used as a validity check.
+
+A bunch more questions were then asked:
+
+
+education			"How much education have you completed?", 1=Less than high school, 2=High school, 3=University degree, 4=Graduate degree
+urban				"What type of area did you live when you were a child?", 1=Rural (country side), 2=Suburban, 3=Urban (town, city)
+gender				"What is your gender?", 1=Male, 2=Female, 3=Other
+engnat				"Is English your native language?", 1=Yes, 2=No
+age					"How many years old are you?"
+hand				"What hand do you use to write with?", 1=Right, 2=Left, 3=Both
+religion			"What is your religion?", 1=Agnostic, 2=Atheist, 3=Buddhist, 4=Christian (Catholic), 5=Christian (Mormon), 6=Christian (Protestant), 7=Christian (Other), 8=Hindu, 9=Jewish, 10=Muslim, 11=Sikh, 12=Other
+orientation			"What is your sexual orientation?", 1=Heterosexual, 2=Bisexual, 3=Homosexual, 4=Asexual, 5=Other
+race				"What is your race?", 1=Asian, 2=Arab, 3=Black, 4=Indigenous Australian, Native American or White***, 5=Other
+voted				"Have you voted in a national election in the past year?", 1=Yes, 2=No
+married				"What is your marital status?", 1=Never married, 2=Currently married, 3=Previously married
+familysize			"Including you, how many children did your mother have?"		
+major				"If you attended a university, what was your major (e.g. "psychology", "English", "civil engineering")?"
+
+***There was an error in the coding of they survey, these options were separate but all were given the same numerical value

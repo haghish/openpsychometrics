@@ -1,0 +1,249 @@
+The following items were rated on a seven point scale (1 = strongly disagree, 2 = disagree, 3 = slightly disagree, 4 = neutral, 5 = slightly disagree, 6 = agree, 7 = strongly agree):
+
+V1	I understand the instructions for this test.
+EFear8 I love dangerous situations.
+EDepe3 I need the approval of others.
+XExpr3 I am the life of the party.
+AGent6 I am quick to judge others.
+CPrud8 I make careless mistakes.
+OCrea10 I seldom experience sudden intuitive insights.
+ESent1 I feel others' emotions.
+OCrea2 I come up with something new.
+HGree1 I would not enjoy being a famous celebrity.
+XLive9 I tire out quickly.
+EFear7 I face danger confidently.
+AFlex4 I react strongly to criticism.
+XSoci10 I keep others at a distance.
+XSoci6 I seem to derive less enjoyment from interacting with people than others do.
+HGree9 I prefer to eat at expensive restaurants.
+HSinc7 I pretend to be concerned for others.
+EAnxi1 I often worry about things that turn out to be unimportant.
+EFear5 I would never go riding down a stretch of rapids in a canoe.
+APati4 I rarely get irritated.
+CPerf8 I demand quality.
+CPerf10 I prefer to just let things happen.
+HFair10 I would not regret my behavior if I were to take advantage of someone impulsively.
+OInqu10 I will not probe deeply into a subject.
+ESent4 I am sensitive to the needs of others.
+XExpr8 I say little.
+OInqu7 I don't know much about history.
+EDepe7 I suspect that my facial expressions give me away when I feel sad.
+XSocB1 I am good at making impromptu speeches.
+CPerf9 I pay too little attention to details.
+CPrud5 I do things without thinking of the consequences.
+XLive1 I maintain high energy throughout the day.
+CPerf3 I have an eye for detail.
+OCrea6 I have excellent ideas.
+APati3 I am usually a patient person.
+HFair8 I steal things.
+EDepe1 I need reassurance.
+HMode10 I boast about my virtues.
+OAesA6 I do not like art.
+HMode1 I don't think that i'm better than other people.
+XSocB3 I feel comfortable around people.
+APati5 I seldom get mad.
+APati10 I get upset easily.
+XSoci2 I talk to a lot of different people at parties.
+AFlex3 I when interacting with a group of people, am often bothered by at least one of them.
+AForg2 I try to forgive and forget.
+CPrud10 I make a fool of myself.
+OUnco2 I know that my ideas sometimes surprise people.
+AForg7 I get back at people who insult me.
+AGent1 I rarely complain.
+OInqu6 I have a rich vocabulary.
+OAesA4 I enjoy feeling close to the earth.
+XSoci4 I make friends easily.
+CPerf4 I want every detail taken care of.
+AForg1 I love my enemies.
+APati2 I rarely feel angry with people.
+XSocB5 I have a strong personality.
+AGent4 I have a good word for everyone.
+XExpr4 I tell people about it when i'm irritated.
+XLive2 I have great stamina.
+HGree3 I love luxury.
+HFair4 I would feel very badly for a long time if I were to steal from someone.
+COrga8 I don't finish the things that I start.
+XSocB8 I find it difficult to approach others.
+XSoci1 I usually like to spend my free time with people.
+HFair6 I admire a really clever scam.
+AForg9 I distrust people.
+EDepe9 I can't do without the company of others.
+ESent10 I seldom get emotional.
+OInqu3 I enjoy intellectual games.
+HGree6 I am mainly interested in money.
+AForg5 I find it hard to forgive others.
+CPrud9 I don't know why I do some of the things I do.
+HMode7 I like to attract attention.
+OCrea1 I have a vivid imagination.
+HMode2 I see myself as an average person.
+ESent6 I rarely cry during sad movies.
+CDili4 I work hard.
+EAnxi10 I don't worry about things that have already happened.
+HGree7 I wish to stay young forever.
+AFlex10 I am hard to reason with.
+OCrea5 I love to think up new ways of doing things.
+XExpr10 I speak softly.
+OCrea7 I do not have a good imagination.
+XLive5 I feel healthy and vibrant most of the time.
+OCrea8 I have difficulty imagining things.
+OUnco1 I am considered to be kind of eccentric.
+AFlex9 I am hard to satisfy.
+ESent9 I don't understand people who get emotional.
+APati1 I find that it takes a lot to make me feel angry at someone.
+HSinc10 I let people push me around to help them feel important.
+OInqu2 I would love to explore strange places.
+OAesA5 I have read the great literary classics.
+EDepe10 I want to be liked.
+XExpr6 I don't talk a lot.
+ESent7 I seldom feel weepy while reading the sad part of a story.
+CDili7 I stop when work becomes too difficult.
+XLive4 I smile a lot.
+XSocB6 I would be afraid to give a speech in public.
+HGree5 I seek status.
+ESent5 I am deeply moved by others' misfortunes.
+AFlex6 I am hard to convince.
+CDili1 I push myself very hard to succeed.
+HSinc5 I switch my loyalties when I feel like it.
+AFlex1 I adjust easily.
+EFear10 I am willing to take risks.
+OAesA1 I believe in the importance of art.
+EAnxi7 I rarely feel depressed.
+HGree2 I don't strive for elegance in my appearance.
+OUnco5 I swim against the current.
+OUnco4 I rebel against authority.
+APati7 I get angry easily.
+EAnxi4 I get upset by unpleasant thoughts that come into my mind.
+HFair3 I return extra change when a cashier makes a mistake.
+OAesA2 I get deeply immersed in music.
+XExpr9 I bottle up my feelings.
+OAesA10 I do not enjoy watching dance performances.
+COrga5 I want everything to be just right.
+EAnxi6 I rarely worry.
+CPerf1 I pay attention to details.
+HGree10 I am out for my own personal gain.
+XExpr2 I am never at a loss for words.
+OUnco3 I do things that others find strange.
+XSoci3 I love to chat.
+HMode5 I would like to have more power than other people.
+COrga4 I like to tidy up.
+HGree8 I try to impress others.
+CPerf2 I continue until everything is perfect.
+EFear3 I would fear walking in a high-crime part of a city.
+EDepe2 I let myself be influenced by others.
+EFear9 I would be good at rescuing people from a burning building.
+XSocB7 I keep in the background.
+XSocB9 I hate being the center of attention.
+APati8 I get irritated easily.
+XExpr5 I have an intense, boisterous laugh.
+AGent2 I take things as they come.
+XSoci9 I am hard to get to know.
+AGent9 I have a sharp tongue.
+COrga7 I leave my belongings around.
+EDepe8 I seek support.
+XLive6 I laugh a lot.
+OAesA3 I see beauty in things that others might not notice.
+OUnco6 I would hate to be considered odd or strange.
+AGent10 I criticize others' shortcomings.
+AFlex2 I am good at taking advice.
+XLive3 I am usually active and full of energy.
+XSoci8 I would not enjoy a job that involves a lot of social interaction.
+COrga9 I often forget to put things back in their proper place.
+HSinc9 I find it necessary to please the people who have power.
+XSocB10 I have little to say.
+XLive7 I feel that I have a lot of inner strength.
+CDili9 I hang around doing nothing.
+EFear1 I am a physical coward.
+HFair7 I cheat to get ahead.
+XLive10 I often feel blue.
+COrga1 I keep things tidy.
+EAnxi3 I get stressed out easily.
+OAesA8 I do not like poetry.
+HGree4 I have a strong need for power.
+CPerf7 I detect mistakes.
+XSoci5 I enjoy being part of a group.
+OUnco8 I like to be viewed as proper and conventional.
+EDepe4 I need protection.
+AGent7 I find fault with everything.
+CPrud6 I make rash decisions.
+EDepe5 I often need help.
+HSinc2 I use flattery to get ahead.
+OInqu5 I find political discussions interesting.
+AGent3 I accept people as they are.
+HMode6 I believe that I am better than others.
+CDili3 I am exacting in my work.
+CPerf5 I dislike imperfect work.
+CPrud1 I avoid mistakes.
+OUnco10 I try to avoid complex people.
+OInqu4 I love to read challenging material.
+EFear4 I tremble in dangerous situations.
+EFear6 I like to do frightening things.
+XExpr1 I talk a lot.
+XExpr7 I don't like to draw attention to myself.
+CDili8 I do too little work.
+XSoci7 I rarely enjoy being with people.
+HSinc6 I play a role in order to impress people.
+HFair5 I try to follow the rules.
+XSocB2 I don't mind being the center of attention.
+CDili2 I get started quickly on doing a job.
+HMode4 I consider myself an average person.
+AFlex5 I get upset if others change the way that I have arranged things.
+AForg3 I am inclined to forgive others.
+AGent8 I speak ill of others.
+HMode9 I am likely to show off if I get the chance.
+OUnco7 I enjoy being thought of as a normal mainstream person.
+EAnxi8 I am not easily disturbed by events.
+OCrea9 I have trouble guessing how others will react.
+OCrea3 I carry the conversation to a higher level.
+COrga10 I am not bothered by disorder.
+AForg10 I feel that most people can't be trusted.
+EAnxi9 I remain calm under pressure.
+EAnxi5 I panic easily.
+HSinc8 I act like different people in different situations.
+CDili6 I do just enough work to get by.
+CPerf6 I want everything to add up perfectly.
+CPrud2 I make plans and stick to them.
+AForg4 I am nice to people I should be angry at.
+AForg6 I hold a grudge.
+HFair1 I would never take things that aren't mine.
+OAesA7 I seldom notice the emotional aspects of paintings and pictures.
+HFair9 I cheat on people who have trusted me.
+OUnco9 I like to be thought of as a normal kind of person.
+OInqu8 I avoid difficult reading material.
+EFear2 I begin to panic when there is danger.
+HFair2 I would never cheat on my taxes.
+HSinc4 I put on a show to impress people.
+HMode3 I am just an ordinary person.
+AGent5 I become frustrated and angry with people when they don't live up to my expectations.
+COrga2 I get chores done right away.
+CPrud4 I jump into things without thinking.
+XLive8 I have a lot of fun.
+AForg8 I get even with others.
+HMode8 I am more capable than most others.
+EAnxi2 I worry about things.
+AFlex8 I can't stand being contradicted.
+ESent8 I am seldom bothered by the apparent suffering of strangers.
+ESent3 I cry during movies.
+XSocB4 I have leadership abilities.
+COrga6 I leave a mess in my room.
+AFlex7 I am annoyed by others' mistakes.
+ESent2 I immediately feel sad when hearing of an unhappy event.
+CDili10 I quickly lose interest in the tasks I start.
+CDili5 I complete tasks successfully.
+OInqu1 I am interested in science.
+COrga3 I like order.
+CPrud3 I do things according to a plan.
+EDepe6 I show my sadness.
+HSinc3 I tell other people what they want to hear so that they will do what I want them to do.
+APati9 I lose my temper.
+CPrud7 I act impulsively when something is bothering me.
+OInqu9 I don't bother worrying about political and social problems.
+APati6 I am easily annoyed.
+OAesA9 I do not like concerts.
+HSinc1 I don't pretend to be more than I am.
+OCrea4 I am full of ideas.
+V2	I have answered all of these questions as accurately as possible.
+
+The test would not submit until all items were responded too. The following values were calculated from technical information:
+
+country	ISO country code
+elapse	seconds from when the test form was loaded to when it was submitted

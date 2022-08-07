@@ -1,0 +1,29 @@
+Updated 1014-02-15
+
+This data was collected online with an interactive version of the Rosenberg Self-Esteem Scale (see Rosenberg, M. (1965). Society and the adolescent self-image. Princeton, NJ: Princeton University Press).
+
+Individuals were informed at the start of the test that their data would be saved. When they completed the test they were asked to confirm that the responses they had given were accurate and could be used for research, only those who confirmed are included in this dataset (75.7% confirmed). 
+
+The following items were rated on the following scale where 1=strongly disagree, 2=disagree, 3=agree, and 4=strongly agree (0=no answer):
+
+
+Q1. I feel that I am a person of worth, at least on an equal plane with others.	
+Q2. I feel that I have a number of good qualities.	
+Q3. All in all, I am inclined to feel that I am a failure.	
+Q4. I am able to do things as well as most other people.	
+Q5. I feel I do not have much to be proud of.	
+Q6. I take a positive attitude toward myself.	
+Q7. On the whole, I am satisfied with myself.	
+Q8. I wish I could have more respect for myself.	
+Q9. I certainly feel useless at times.	
+Q10. At times I think I am no good at all.
+
+Some other questions were on the following page:
+
+gender. Chosen from a drop down list (1=male, 3=female, 3=other; 0=none was chosen)
+age. Entered as a free response. (0=response that could not be converted to integer)
+
+And:
+
+source. How the user came to the page (HTTP referer). 1=front page of personality test website, 2=Google search, 3=other.
+country. Inferred from technical information using MaxMind GeoLite.

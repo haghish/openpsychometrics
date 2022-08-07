@@ -1,0 +1,18 @@
+This is data from an on-line objective test advertised as "Full Scale IQ Test".
+
+The test had 3 sections. The first was a vocabulary test, the second had mental rotation items, and the third was a short term memory test. Each question had 8 possible answers, of which 3-5 were correct so each question was more like a composite of several questions. A demo of the test in included.
+
+For each question, multiple values are recorded. e.g. for the first vocabulary question:
+
+VQ1s	The individuals score on that question. +1 point for each correct answer, -1 point for each wrong answer
+VQ1a	The actual answers selected by the user for this question
+VQ1e	The elapsed time in milliseconds on this question
+
+
+The other values were also recorded:
+dateload	
+introelapse	time spent on the landing page in seconds
+testelapse	time spent on the test page in seconds
+endelapse	time spent on the page where they agreed to donate their data
+
+This file only contains individuals who indicated their data was appropriate for research; records from subjects where there were indications that it was not their first time taking this were also removed.

@@ -1,0 +1,16 @@
+1A	https://commons.wikimedia.org/wiki/File:Hubert_Robert_-_Vue_du_Port_de_Ripetta%2C_a_Rome.JPG
+1B	https://commons.wikimedia.org/wiki/File:Ch.Leandre_LaFemmeAuChien.png
+2A	https://commons.wikimedia.org/wiki/File:'The_Begum's_Fortune'_by_L%C3%A9on_Benett_17.jpg	
+2B	https://commons.wikimedia.org/wiki/File:Degas.etoile.jpg
+3A	??
+3B	https://commons.wikimedia.org/wiki/File:The_Artist%27s_Daughter_with_a_Parakeet_G-001195-20120311.jpg
+4A	https://www.flickr.com/photos/126377022@N07/14780717984
+4B	https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Suzanne_Valadon_-_profile.jpg
+5A	https://commons.wikimedia.org/wiki/File:View_of_Dordrecht,_ca._1655,_Aelbert_Cuyp,_Dutch,_1620-1691,_oil_on_canvas.jpg
+5B	https://commons.wikimedia.org/wiki/File:Eva_Gonzal%C3%A8s_-_Nounou_avec_enfant.jpg	
+8A	https://commons.wikimedia.org/wiki/File:Abel_Grimmer_The_Month_of_February.jpg
+8B	https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Psych%C3%A9.JPG
+7A	??
+7B	https://commons.wikimedia.org/wiki/File:Auguste_Renoir_-_A_Girl_with_a_Watering_Can_-_Google_Art_Project.jpg
+8A	
+8B	https://commons.wikimedia.org/wiki/File:Mary_Cassatt_003.jpg
